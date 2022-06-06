@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+github : https://github.com/NR0617
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Web Developer(FE) 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[nara20210617@gmail.com](mailto:nara20210617@gmail.com)
